@@ -1,15 +1,31 @@
 lockfileVersion: 5.3
 
 specifiers:
+  '@rush-temp/lib-1': file:./projects/lib-1.tgz
   '@rush-temp/project-1': file:./projects/project-1.tgz
+  '@rush-temp/project-2': file:./projects/project-2.tgz
 
 dependencies:
+  '@rush-temp/lib-1': file:projects/lib-1.tgz
   '@rush-temp/project-1': file:projects/project-1.tgz
+  '@rush-temp/project-2': file:projects/project-2.tgz
 
 packages:
+
+  file:projects/lib-1.tgz:
+    resolution: {integrity: sha512-XHv9p2sv24o9nqgh9aN2qyEthGMUYL2+Gav0vc6uESazg/wPS4hc2JY0oaU5Cwet1xH92bcuJ5payv8eNX1+5A==, tarball: file:projects/lib-1.tgz}
+    name: '@rush-temp/lib-1'
+    version: 0.0.0
+    dev: false
 
   file:projects/project-1.tgz:
     resolution: {integrity: sha512-tr/qV//KM7iLD+Y3o96TiEs5iNiqkUcHtr1yC3qv78WU/kYzeJGU29UIuITlhycxqQasmAdu+kLecKvuZ0cyzA==, tarball: file:projects/project-1.tgz}
     name: '@rush-temp/project-1'
+    version: 0.0.0
+    dev: false
+
+  file:projects/project-2.tgz:
+    resolution: {integrity: sha512-dnYHnw0ZHiQOxAMdVNLoUji4w3BCQk3O4aseoFeoIPdB4lKR433vBlZDRRTjCUR5kGz05QZZ5lWRBuIW6g7LSQ==, tarball: file:projects/project-2.tgz}
+    name: '@rush-temp/project-2'
     version: 0.0.0
     dev: false
