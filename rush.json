@@ -392,6 +392,14 @@
     {
       "packageName": "project-1",
       "projectFolder": "apps/project-1"
+    },
+    {
+      "packageName": "project-2",
+      "projectFolder": "apps/project-2"
+    },
+    {
+      "packageName": "lib-1",
+      "projectFolder": "libs/lib-1"
     }
     // {
     //   /**
