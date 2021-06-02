@@ -4,4 +4,4 @@ console.log("project 1");
 
 console.log(`sum of 1 + 2 = ${sum(1, 2)}`);
 
-console.log("change")
+console.log("change 2")
