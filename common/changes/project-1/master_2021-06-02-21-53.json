@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "project-1",
+      "comment": "add 5",
+      "type": "patch"
+    }
+  ],
+  "packageName": "project-1",
+  "email": "lucas.monteiro@loft.com.br"
+}
