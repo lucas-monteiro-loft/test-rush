@@ -391,7 +391,8 @@
   "projects": [
     {
       "packageName": "project-1",
-      "projectFolder": "apps/project-1"
+      "projectFolder": "apps/project-1",
+      "shouldPublish": true
     },
     {
       "packageName": "project-2",
