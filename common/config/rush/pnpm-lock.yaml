@@ -1,0 +1,15 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@rush-temp/project-1': file:./projects/project-1.tgz
+
+dependencies:
+  '@rush-temp/project-1': file:projects/project-1.tgz
+
+packages:
+
+  file:projects/project-1.tgz:
+    resolution: {integrity: sha512-tr/qV//KM7iLD+Y3o96TiEs5iNiqkUcHtr1yC3qv78WU/kYzeJGU29UIuITlhycxqQasmAdu+kLecKvuZ0cyzA==, tarball: file:projects/project-1.tgz}
+    name: '@rush-temp/project-1'
+    version: 0.0.0
+    dev: false
