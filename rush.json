@@ -400,7 +400,8 @@
     },
     {
       "packageName": "lib-1",
-      "projectFolder": "libs/lib-1"
+      "projectFolder": "libs/lib-1",
+      "shouldPublish": true
     }
     // {
     //   /**
