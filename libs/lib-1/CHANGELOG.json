@@ -1,0 +1,20 @@
+{
+  "name": "lib-1",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "lib-1_v1.0.1",
+      "date": "Wed, 02 Jun 2021 22:03:45 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "add comment"
+          },
+          {
+            "comment": "add 6"
+          }
+        ]
+      }
+    }
+  ]
+}
